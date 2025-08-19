@@ -7,7 +7,7 @@ export default function SkillsScreen() {
         <View>
             <Image
                 source={profileImg}
-                width={200}
+                width={100}
             />
             <Text>Habilidades</Text>
             <StatusBar></StatusBar>
