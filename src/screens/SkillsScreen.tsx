@@ -30,7 +30,7 @@ export default function SkillsScreen() {
                         <Text style={styles.lvl}>🚀🚀</Text>
                     </View>
                 </View>
-                <StatusBar></StatusBar>
+                <StatusBar style="light"></StatusBar>
             </ImageBackground>
         </View>
     )

@@ -34,7 +34,7 @@ export default function HomeScreen() {
                         color={'rgba(118, 58, 187, 1)'}
                     />
                 </View>
-                <StatusBar></StatusBar>
+                <StatusBar style="light"></StatusBar>
             </ImageBackground>
         </View>
     )
