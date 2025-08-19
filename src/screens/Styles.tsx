@@ -21,6 +21,24 @@ const styles = StyleSheet.create({
         marginVertical: 40,
         width: '60%',
         gap: 10
+    },
+    lvlMainCont: {
+        width: '90%',
+        alignItems: 'center',
+        marginVertical: 20,
+        gap: 10
+    },
+    lvlCont: {
+        borderBottomWidth: 1,
+        borderColor: '#d8d8d8ff',
+        width: '70%'
+    },
+    skillTittle: {
+        color: '#fff',
+        fontSize: 16,
+    },
+    lvl: {
+        fontSize: 32
     }
 });
 

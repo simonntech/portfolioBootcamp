@@ -36,7 +36,6 @@ export default function HomeScreen() {
                 </View>
                 <StatusBar></StatusBar>
             </ImageBackground>
-
         </View>
     )
 }
